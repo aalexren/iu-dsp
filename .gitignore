@@ -4,7 +4,8 @@
 *.zip
 *.rar
 hw02/old_model
-
+wt/
+hw04/my_model
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
